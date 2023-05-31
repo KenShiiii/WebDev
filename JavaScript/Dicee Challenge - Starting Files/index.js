@@ -50,3 +50,5 @@ function playDiceeGame() {
   rollBothDices();
   compareDices();
 }
+
+playDiceeGame();
